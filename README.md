@@ -24,10 +24,10 @@ O pivô utilizado no Quicksort foi determinado pela **técnica da mediana de tr�
 
 A medição do tempo de execução foi feita utilizando a biblioteca `chrono`, garantindo precisão em microssegundos.
 
-| Algoritmo   | Tempo de Execução |                 |
-| ----------- | ----------------- | --------------- |
-| Bubble Sort | \~                | **muito maior** |
-| Quicksort   | \~ **menor**      |                 |
+| Algoritmo   | Tempo de Execução |                 
+| ----------- | ----------------- | 
+| Bubble Sort | \~ **muito maior**|  
+| Quicksort   | \~ **menor**      |                 
 
 Os resultados mostram que o **Quicksort** teve um desempenho significativamente melhor do que o **Bubble Sort**, o que já era esperado devido às diferenças de complexidade.
 
