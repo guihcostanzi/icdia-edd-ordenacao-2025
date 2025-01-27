@@ -2,7 +2,9 @@
 
 ## Introdução
 
-O objetivo deste experimento foi comparar o desempenho de dois algoritmos de ordenação: **Bubble Sort** e **Quicksort**. Ambos foram aplicados para ordenar um conjunto de 3000 pratos, classificados por prioridade e tempo de preparo.
+O objetivo deste experimento foi comparar o desempenho de dois algoritmos de ordenação: **Bubble Sort** e **Quicksort**. Ambos foram aplicados para ordenar um conjunto de pratos (com nomes gerados aleatoriamente), classificados por prioridade e tempo de preparo.
+
+Observação: Foi commitada uma versão com um número menor de pratos, mas para alterar a quantidade de pratos, basta alterar a variável de controle "n", que se localiza na main. Esta versão está limitada para fins de teste.
 
 ## Algoritmos Utilizados
 
